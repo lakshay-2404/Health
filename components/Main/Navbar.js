@@ -21,7 +21,7 @@ const Navbar = () => {
                 <NavLink text = "Sleep" icon = {<GiNightSleep />} address ="/sleep" />
                 <NavLink text = "Exercise" icon = {<CgGym />} address ="/excercise" />
                 <NavLink text = "Mental Heath" icon = {<RiMentalHealthFill />} address ="/mentalhealth" />
-                <NavLink text = "Coginitive Games" address={"coginitivegames"} icon = {<CgGames />} />
+                <NavLink text = "Cognitive Games" address={"coginitivegames"} icon = {<CgGames />} />
                 <hr className='bg-white ml-3 hidden md:block my-3' />
                 <NavLink text = "Help" icon = {<MdOutlineHelp />} address ="/help" />
                 {/* <NavLink type= "logout" text = "Logout" icon = {<MdLogout />}address = "#" /> */}
