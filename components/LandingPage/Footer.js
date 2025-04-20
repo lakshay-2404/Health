@@ -20,7 +20,7 @@ const Footer = () => {
    {/* First Service */}
    <div className='mx-4 pt-12 grid  grid-cols-1 sm:grid-cols-1 lg:grid-cols-3 gap-8'>
    <a href="#" className='grid2-item h-40 "border-4  mx-7 overflow-x-auto relative shadow-2xl sm:rounded-lg bg-blue-500  '>
-   <h2 className='flex justify-center font-bold pt-5 text-2xl text-[#C4FA6F]'>Physcial Health And Sleep</h2>
+   <h2 className='flex justify-center font-bold pt-5 text-2xl text-[#C4FA6F]'>Physical Health And Sleep</h2>
    <p className='flex justify-center font-semibold text-white'>We will Tell You About Your</p><p className='flex justify-center font-semibold text-white'>Physical Health</p> <p className='flex justify-center font-semibold text-white'>You Can Also Improve Your Sleep </p>
   </a>
  
